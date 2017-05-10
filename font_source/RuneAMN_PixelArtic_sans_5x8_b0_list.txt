@@ -1,0 +1,9 @@
+// 
+FontName:RuneAMN_PixelArtic_sans_5x8_b0 Width:750 Height:1000 baseline:10 isFree:yes isAssignLower:yes
+
+A B C D E F G
+H I J K L M N
+O P Q R S T U
+V W X Y Z
+
+

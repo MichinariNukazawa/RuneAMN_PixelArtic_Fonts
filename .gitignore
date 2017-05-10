@@ -1,0 +1,28 @@
+
+# logfiles
+*.log
+
+# tex
+*.aux
+
+# gedit backup
+*~
+*/*~
+
+# binarys
+FontSources/*
+docs/book_of_rune/*
+releases/*
+releases-static/*
+*.otf
+*.ttf
+*.zip
+
+#
+extra/
+work/
+extra_patchRetail/*
+library/
+object/
+build/
+
